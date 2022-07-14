@@ -1,10 +1,14 @@
 body {background-color: rgb(255, 204, 153);
-      font-family: 'Gantari', sans-serif;
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gantari:wght@100&family=Lobster&display=swap" rel="stylesheet">
       color: rgb(0, 0, 0);
 }
 h1, title {
     color: rgb(0, 102, 153);
-    font-family: 'Lobster', cursive;
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gantari:wght@100&family=Lobster&display=swap" rel="stylesheet">
 }
 html{
     text-align: center;
