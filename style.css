@@ -5,6 +5,7 @@ h1 {
 }
 html{
     font-family: 'Abril Fatface';
+    text-align: center;
 }
 a:link{
     color:rgb(0, 0, 204);
@@ -12,3 +13,4 @@ a:link{
 a:hover{
     color:rgb(102, 0, 204);
 }
+
