@@ -3,3 +3,12 @@ h1 {
     color:gold;
     font-family: 'Pacifico', cursive;
 }
+html{
+    font-family: 'Abril Fatface';
+}
+a:link{
+    color:rgb(0, 0, 204);
+}
+a:hover{
+    color:rgb(102, 0, 204);
+}
