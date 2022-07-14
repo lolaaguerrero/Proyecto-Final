@@ -1,10 +1,9 @@
 body {background-color: lightsalmon;}
-h1 {
+h1, title {
     color:gold;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Koulen', cursive;
 }
 html{
-    font-family: 'Abril Fatface', cursive;
     text-align: center;
 }
 a:link{
