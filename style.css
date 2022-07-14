@@ -1,6 +1,6 @@
-body {background-color: lightsalmon;}
+body {background-color: rgb(255, 204, 153);}
 h1, title {
-    color:gold;
+    color: rgb(255, 204, 0);
     font-family: 'Koulen', cursive;
 }
 html{
